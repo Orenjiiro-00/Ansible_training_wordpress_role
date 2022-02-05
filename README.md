@@ -1,1 +1,1 @@
-# Ansible_wordpress_role
+# Ansible_training_wordpress_role
